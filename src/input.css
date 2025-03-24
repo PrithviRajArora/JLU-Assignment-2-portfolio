@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Cantata+One&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    --font-cantata-one-regular: "Cantata One", serif;
+    --font-baskervville: "Baskervville", serif;
+    --shadow-custom: -17px 17px 30px rgba(0, 0, 0, 0.30); 
+    --rosemary: #788B84;
+    --sage:#B1BBB6;
+    --isha: #859F84;
+}
