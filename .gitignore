@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Tailwind input and config (optional for production-only hosting)
+src/input.css
+tailwind.config.cjs
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs and lock files
+package-lock.json
+yarn.lock
+npm-debug.log*
